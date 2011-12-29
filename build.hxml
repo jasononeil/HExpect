@@ -1,0 +1,10 @@
+# hexpect.n
+-cp .
+-main Test
+-neko hexpect.n
+-debug
+
+--next
+-cp .
+-xml haxedoc.xml
+-main Test

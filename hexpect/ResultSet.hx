@@ -1,0 +1,6 @@
+package HExpect;
+
+class ResultSet
+{
+}
+
